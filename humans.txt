@@ -1,0 +1,22 @@
+/* TEAM */
+Developer: IPTV Pro Germany Project
+Site: https://iptvprogermany.com
+GitHub: https://github.com/richardgustau-dotcom/iptv-pro-germany-2025
+Location: Germany / International
+
+/* SITE */
+Last update: 2025-11-24
+Standards: HTML5, CSS3, JSON-LD Structured Data, Open Graph, Twitter Cards
+Components: GitHub Pages, No-Jekyll, SEO Optimized
+
+/* CONTACT */
+Website: https://iptvprogermany.com
+Support: https://iptvprogermany.com/contact
+
+/* NOTE */
+This project is an informational IPTV guide.
+No streams, no apps, and no copyrighted material are stored or provided.
+For educational and compatibility purposes only.
+
+/* THANKS */
+Thanks to GitHub for hosting.
