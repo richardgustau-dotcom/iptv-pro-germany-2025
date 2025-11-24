@@ -1,10 +1,12 @@
+<p align="center">
+  <img src="https://raw.githubusercontent.com/richardgustau-dotcom/iptv-pro-germany-2025/main/IPTV%20Germany.png" alt="IPTV Germany 2025 Banner" width="100%">
+</p>
+
 # IPTV Pro Germany 2025 – HD & 4K Streaming Guide
 
 ![Status](https://img.shields.io/badge/IPTV_Germany_2025-Guide-blue)
 ![Content](https://img.shields.io/badge/Content-Informational-green)
 ![Compatible](https://img.shields.io/badge/FireTV/SmartTV-Compatible-yellow)
-
-![IPTV Germany 2025](https://github.com/richardgustau-dotcom/iptv-pro-germany-2025/raw/main/A_promotional_digital_graphic_showcases_Germanys.png)
 
 Willkommen zu **IPTV Pro Germany 2025**, einem vollständigen Guide für stabile und zuverlässige IPTV Lösungen für Deutschland.
 
