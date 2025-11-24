@@ -4,7 +4,7 @@
 ![Content](https://img.shields.io/badge/Content-Informational-green)
 ![Compatible](https://img.shields.io/badge/FireTV/SmartTV-Compatible-yellow)
 
-![IPTV Germany 2025](https://iptvprogermany.com/wp-content/uploads/2024/11/iptv-germany-2025-banner.png)
+![IPTV Germany 2025](https://github.com/richardgustau-dotcom/iptv-pro-germany-2025/raw/main/A_promotional_digital_graphic_showcases_Germanys.png)
 
 Willkommen zu **IPTV Pro Germany 2025**, einem vollständigen Guide für stabile und zuverlässige IPTV Lösungen für Deutschland.
 
