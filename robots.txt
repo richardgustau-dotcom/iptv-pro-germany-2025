@@ -1,0 +1,4 @@
+User-agent: *
+Allow: /
+
+Sitemap: https://richardgustau-dotcom.github.io/iptv-pro-germany-2025/sitemap.xml
