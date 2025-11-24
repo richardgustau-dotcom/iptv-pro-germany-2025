@@ -1,0 +1,12 @@
+# security.txt for IPTV Pro Germany Project
+# Standard: RFC 9116
+# This file provides security contact information.
+
+Contact: mailto:admin@iptvprogermany.com
+Contact: https://iptvprogermany.com/contact
+Encryption: https://keys.openpgp.org/vks/v1/by-fingerprint/0000000000000000000000000000000000000000
+Preferred-Languages: en, de
+Canonical: https://richardgustau-dotcom.github.io/iptv-pro-germany-2025/security.txt
+Policy: https://iptvprogermany.com/security-policy
+Hiring: https://iptvprogermany.com/jobs
+Expires: 2026-11-24T00:00:00.000Z
