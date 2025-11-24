@@ -1,0 +1,15 @@
+{
+  "@context": "https://schema.org",
+  "@type": "TechArticle",
+  "headline": "IPTV Pro Germany 2025 – Stabil & HD/4K Streaming Guide",
+  "description": "Vollständiger IPTV Guide für Deutschland 2025: ARD, ZDF, RTL, Pro7, Sky, DAZN, Bundesliga, HD/4K Streaming, Fire TV kompatibel ohne Buffering.",
+  "author": {
+    "@type": "Organization",
+    "name": "IPTV Pro Germany"
+  },
+  "publisher": {
+    "@type": "Organization",
+    "name": "IPTV Pro Germany"
+  },
+  "url": "https://richardgustau-dotcom.github.io/iptv-pro-germany-2025/"
+}
