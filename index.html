@@ -27,27 +27,77 @@
   <link rel="icon" href="IPTV Germany.png" />
   <meta name="theme-color" content="#0A4ABF" />
 
-  <!-- JSON-LD Structured Data -->
+  <!-- Structured Data: WebSite + Product + TechArticle -->
   <script type="application/ld+json">
   {
     "@context": "https://schema.org",
-    "@type": "TechArticle",
-    "headline": "IPTV Pro Germany 2025 – Stabil, Schnell & HD/4K Streaming",
-    "description": "IPTV Pro Germany 2025 ist ein Guide für stabile, schnelle und kompatible IPTV Lösungen in Deutschland mit HD/4K Streaming.",
-    "image": "https://raw.githubusercontent.com/richardgustau-dotcom/iptv-pro-germany-2025/main/IPTV%20Germany.png",
-    "author": {
-      "@type": "Organization",
-      "name": "IPTV Pro Germany"
-    },
-    "publisher": {
-      "@type": "Organization",
-      "name": "IPTV Pro Germany",
-      "logo": {
-        "@type": "ImageObject",
-        "url": "https://raw.githubusercontent.com/richardgustau-dotcom/iptv-pro-germany-2025/main/IPTV%20Germany.png"
+    "@graph": [
+      {
+        "@type": "WebSite",
+        "@id": "https://richardgustau-dotcom.github.io/iptv-pro-germany-2025/#website",
+        "name": "IPTV Pro Germany 2025 – HD & 4K Streaming Guide",
+        "url": "https://richardgustau-dotcom.github.io/iptv-pro-germany-2025/",
+        "alternateName": "IPTV Pro Germany",
+        "description": "Deutscher IPTV Guide 2025 für stabile, schnelle HD & 4K Streams – ARD, ZDF, RTL, Pro7, Sky, DAZN – kompatibel mit Fire TV Stick & Smart TVs.",
+        "publisher": {
+          "@type": "Organization",
+          "name": "IPTV Pro Germany",
+          "url": "https://iptvprogermany.com",
+          "logo": {
+            "@type": "ImageObject",
+            "url": "https://raw.githubusercontent.com/richardgustau-dotcom/iptv-pro-germany-2025/main/IPTV%20Germany.png"
+          }
+        },
+        "sameAs": [
+          "https://iptvprogermany.com",
+          "https://github.com/richardgustau-dotcom/iptv-pro-germany-2025"
+        ],
+        "potentialAction": {
+          "@type": "SearchAction",
+          "target": "https://iptvprogermany.com/?s={search_term_string}",
+          "query-input": "required name=search_term_string"
+        }
+      },
+      {
+        "@type": "Product",
+        "@id": "https://iptvprogermany.com/#product",
+        "name": "IPTV Pro Germany 2025",
+        "description": "Stabile IPTV Lösung für Deutschland mit deutschen Sendern (ARD, ZDF, RTL, Pro7, Sky, DAZN) – HD & 4K Streaming, kompatibel mit Fire TV Stick & Smart TVs.",
+        "brand": {
+          "@type": "Brand",
+          "name": "IPTV Pro Germany"
+        },
+        "url": "https://iptvprogermany.com",
+        "image": "https://raw.githubusercontent.com/richardgustau-dotcom/iptv-pro-germany-2025/main/IPTV%20Germany.png",
+        "areaServed": "DE",
+        "offers": {
+          "@type": "Offer",
+          "url": "https://iptvprogermany.com",
+          "priceCurrency": "EUR",
+          "availability": "https://schema.org/InStock"
+        }
+      },
+      {
+        "@type": "TechArticle",
+        "@id": "https://richardgustau-dotcom.github.io/iptv-pro-germany-2025/#article",
+        "headline": "IPTV Pro Germany 2025 – Stabil, Schnell & HD/4K Streaming",
+        "description": "IPTV Pro Germany 2025 ist ein Guide für stabile, schnelle und kompatible IPTV Lösungen in Deutschland mit HD/4K Streaming.",
+        "url": "https://richardgustau-dotcom.github.io/iptv-pro-germany-2025/",
+        "author": {
+          "@type": "Organization",
+          "name": "IPTV Pro Germany"
+        },
+        "publisher": {
+          "@type": "Organization",
+          "name": "IPTV Pro Germany",
+          "logo": {
+            "@type": "ImageObject",
+            "url": "https://raw.githubusercontent.com/richardgustau-dotcom/iptv-pro-germany-2025/main/IPTV%20Germany.png"
+          }
+        },
+        "image": "https://raw.githubusercontent.com/richardgustau-dotcom/iptv-pro-germany-2025/main/IPTV%20Germany.png"
       }
-    },
-    "url": "https://richardgustau-dotcom.github.io/iptv-pro-germany-2025/"
+    ]
   }
   </script>
 
@@ -174,7 +224,7 @@
     </p>
 
     <p>
-      GitHub Projekt:  
+      GitHub Projekt:<br />
       <a href="https://github.com/richardgustau-dotcom/iptv-pro-germany-2025" target="_blank" rel="noopener noreferrer">
         richardgustau-dotcom / iptv-pro-germany-2025
       </a>
